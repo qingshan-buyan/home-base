@@ -2,36 +2,35 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.aleia.cn/"
+  },
+  {"icon": "Book",
+    "name": "文字",
+    "link": "https://is.aleia.cn/"
   },
   {
-    "icon": "Cloud",
+     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "http://alist.myddns.me/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "ImageRegular",
+    "name": "图床（5m）",
+    "link": "https://imgcf.aleia.cn/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "ImagesRegular",
+    "name": "图床(50m)",
+    "link": "https://img.aleia.cn/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://stats.uptimerobot.com/o2qhgLGvCb/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
