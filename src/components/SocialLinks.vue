@@ -1,8 +1,8 @@
 <template>
   <!-- 社交链接 -->
-  <div class="social">
+ <!-- <div class="social">
     <div class="link">
-     <!-- <a
+     &lt;!&ndash; <a
         v-for="item in socialLinks"
         :key="item.name"
         :href="item.url"
@@ -11,17 +11,17 @@
         @mouseleave="socialTip = '通过这里联系我吧'"
       >
         <img class="icon" :src="item.icon" height="24" />
-      </a>-->
+      </a>&ndash;&gt;
     </div>
     <span class="tip">{{ socialTip }}</span>
-  </div>
+  </div>-->
 </template>
 
 <script setup>
 import socialLinks from "@/assets/socialLinks.json";
 
 // 社交链接提示
-const socialTip = ref("通过这里联系我吧");
+/*const socialTip = ref("通过这里联系我吧");*/
 </script>
 
 <style lang="scss" scoped>
