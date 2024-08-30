@@ -22,20 +22,19 @@
     "link": "http://pan.aleia.me/"
   },
   {
+    "icon": "ImagesRegular",
+    "name": "图床",
+    "link": "https://img.aleia.cn/"
+  },
+  {
     "icon": "Cloud",
     "name": "备用网盘",
     "link": "http://alist.aleia.me/"
   },
-
   {
     "icon": "ImageRegular",
-    "name": "图床（5m）",
+    "name": "备用图床",
     "link": "https://imgcf.aleia.cn/"
-  },
-  {
-    "icon": "ImagesRegular",
-    "name": "图床(50m)",
-    "link": "https://img.aleia.cn/"
   },
   {
     "icon": "LaptopCode",
