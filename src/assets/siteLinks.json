@@ -5,14 +5,28 @@
     "link": "https://blog.aleia.cn/"
   },
   {"icon": "Book",
-    "name": "文字",
+    "name": "Typecho",
     "link": "https://is.aleia.cn/"
+  },
+  {"icon": "Book",
+    "name": "Notion",
+    "link": "https://xiao-yang.notion.site/"
+  },
+  {"icon": "Book",
+    "name": "Note",
+    "link": "http://siyuan.myddns.me/"
   },
   {
      "icon": "Cloud",
     "name": "网盘",
-    "link": "http://alist.myddns.me/"
+    "link": "http://pan.aleia.me/"
   },
+  {
+    "icon": "Cloud",
+    "name": "备用网盘",
+    "link": "http://alist.aleia.me/"
+  },
+
   {
     "icon": "ImageRegular",
     "name": "图床（5m）",
