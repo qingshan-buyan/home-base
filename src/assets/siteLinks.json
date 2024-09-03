@@ -16,6 +16,10 @@
     "name": "Note",
     "link": "https://note.aleia.cn/"
   },
+  {"icon": "Book",
+    "name": "Memos",
+    "link": "https://memos.aleia.cn/"
+  },
   {
      "icon": "Cloud",
     "name": "网盘",
