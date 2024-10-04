@@ -23,12 +23,12 @@
   {
      "icon": "Cloud",
     "name": "网盘",
-    "link": "http://yyy.aleia.cn:2085/"
+    "link": "https://pan.aleia.cn/"
   },
   {
     "icon": "ImagesRegular",
     "name": "图床",
-    "link": "https://img.aleia.cn/"
+    "link": "https://imgcf.aleia.cn/"
   },
   {
     "icon": "Cloud",
@@ -38,7 +38,7 @@
   {
     "icon": "ImageRegular",
     "name": "备用图床",
-    "link": "https://imgcf.aleia.cn/"
+    "link": "https://img.aleia.cn/"
   },
   {
     "icon": "LaptopCode",
